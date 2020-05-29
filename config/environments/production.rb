@@ -113,5 +113,5 @@ Rails.application.configure do
   # config.active_record.database_resolver_context = ActiveRecord::Middleware::DatabaseSelector::Resolver::Session
 
   # devise
-  config.action_mailer.default_url_options = { host: 'https://infinite-citadel-45530.herokuapp.com/', port: 5432 }
+  config.action_mailer.default_url_options = { host: 'https://nameless-woodland-16060.herokuapp.com/', port: 5432 }
 end
